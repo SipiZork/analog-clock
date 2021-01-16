@@ -4,10 +4,14 @@
   box-sizing: border-box;
 }
 
+body {
+
+}
+
 .clock {
   width: 400px;
   height: 400px;
-  background: url('/assets/images/clock.jpg');
+  background: url('./assets/images/clock.jpg');
   background-size: cover;
   position: relative;
 }
